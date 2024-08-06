@@ -1,7 +1,7 @@
 # STUDENT GOVERNMENT ELECTION VERIFICATION CODE
 
 ## Purpose: 
-This code was created for the purpose of Colorado Colleges Student Government to help verify election results and report back an errors. This code uses the data obtained and formatted from qualtrics data but can be adapted to be used for other data sources 
+This code was created to help verify Colorado College Student Government Association's election results and report back an errors. This code uses the data obtained and formatted from qualtrics data but can be adapted to be used for other data sources 
 
 ## Using the code: 
 ### Inputs: 
