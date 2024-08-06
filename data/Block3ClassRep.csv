@@ -1,0 +1,142 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Sophomore Class Rep
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Please select your choice for Sophomore Class Rep
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2""}"
+2022-11-10 14:54:17,2022-11-10 14:54:48,Survey Preview,,100,31,True,2022-11-10 14:54:49,R_21nQrqez6GAZ6sy,,,,,38.8361,-104.8148,preview,EN,Posy Vogt
+2022-11-11 08:01:51,2022-11-11 08:02:01,IP Address,192.70.253.76,100,10,True,2022-11-11 08:02:02,R_10IPHFNRW5ROGkw,Harrington,Zoe,z_harrington@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:01:50,2022-11-11 08:02:04,IP Address,192.70.253.77,100,14,True,2022-11-11 08:02:05,R_3LissbNeSKUWNcE,Shaw,Darby,d_shaw@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:02:08,2022-11-11 08:02:14,IP Address,192.70.253.72,100,6,True,2022-11-11 08:02:15,R_2TpJZzIuHa61QrX,Sorensen,Alyssa,a_sorensen@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 08:02:14,2022-11-11 08:02:25,Spam,192.70.253.76,100,10,True,2022-11-11 08:02:25,R_2PB9liJJKIpB4mN,Le,Abby,y_le@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:02:35,2022-11-11 08:02:40,IP Address,192.70.253.78,100,5,True,2022-11-11 08:02:41,R_3P7WggjTw5X4UKi,Benko,Avery,a_benko@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 08:02:36,2022-11-11 08:02:41,IP Address,192.70.253.71,100,4,True,2022-11-11 08:02:42,R_UAwJSbkSi2YRpQJ,Vogt,Posy,p_vogt@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:02:12,2022-11-11 08:02:46,IP Address,198.59.6.3,100,34,True,2022-11-11 08:02:47,R_31ycYmzBqiE1aRC,Villegas,Johanna,j_villegas@coloradocollege.edu,,38.8374,-104.8225,email,EN,Jesse Smolan
+2022-11-11 08:01:43,2022-11-11 08:02:59,IP Address,174.234.11.232,100,75,True,2022-11-11 08:02:59,R_3Hv2E9h5DWqrgMf,Singer,Elliot,eb_singer@coloradocollege.edu,,39.7593,-104.9651,email,EN,Posy Vogt
+2022-11-11 08:02:45,2022-11-11 08:03:05,IP Address,192.70.253.79,100,20,True,2022-11-11 08:03:06,R_2tlleEnzPwXTINY,McConnaughey,Auna,a_mcconnaughey@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:03:13,2022-11-11 08:03:20,IP Address,192.70.253.75,100,7,True,2022-11-11 08:03:21,R_29ofZBQNTriXjJr,Kruger,Ilene,i_kruger@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 08:02:43,2022-11-11 08:03:21,IP Address,174.198.139.122,100,38,True,2022-11-11 08:03:22,R_2Vlr4VwP1vCNLeG,Jones,Walt,w_jones@coloradocollege.edu,,39.8295,-105.0632,email,EN,Jesse Smolan
+2022-11-11 08:04:25,2022-11-11 08:04:33,IP Address,192.70.253.74,100,7,True,2022-11-11 08:04:34,R_BuoTUfQhg5eVcCB,Pohlmann,Anders,a_pohlmann@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 08:04:25,2022-11-11 08:04:37,IP Address,97.122.84.30,100,12,True,2022-11-11 08:04:38,R_6hfiJrQRvkdcalj,Holbrooke,Wiley,w_holbrooke@coloradocollege.edu,,39.5816,-104.9563,email,EN,
+2022-11-11 08:04:05,2022-11-11 08:05:13,IP Address,107.77.222.116,100,68,True,2022-11-11 08:05:13,R_1PY7sennVgs03TQ,Gardner,Corrina,ci_gardner@coloradocollege.edu,,32.7797,-96.8022,email,EN,Posy Vogt
+2022-11-11 08:05:31,2022-11-11 08:05:40,IP Address,198.59.6.7,100,8,True,2022-11-11 08:05:41,R_1gzQVpIzplo6oJP,Barnes,Porter,p_barnes@coloradocollege.edu,,38.8374,-104.8225,email,EN,Posy Vogt
+2022-11-11 08:08:10,2022-11-11 08:08:18,IP Address,192.70.253.78,100,8,True,2022-11-11 08:08:19,R_2TRkfJ4z5rxS1hf,Nystrom Costales,Sam,s_nystromcostales@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:09:53,2022-11-11 08:10:02,IP Address,198.59.6.6,100,8,True,2022-11-11 08:10:03,R_3PLe5L0kdNf2XUi,Falacienski,Kat,k_falacienski@coloradocollege.edu,,38.8374,-104.8225,email,EN,Jesse Smolan
+2022-11-11 08:11:09,2022-11-11 08:11:45,IP Address,192.70.253.73,100,35,True,2022-11-11 08:11:46,R_3sjHhhSPNpG2d74,Smith,Aidan,at_smith@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:12:17,2022-11-11 08:12:26,IP Address,198.59.6.10,100,8,True,2022-11-11 08:12:27,R_s74BhGaXn6DRLDb,Burton,Olivia,o_burton@coloradocollege.edu,,38.8374,-104.8225,email,EN,
+2022-11-11 08:12:32,2022-11-11 08:12:41,IP Address,192.70.253.80,100,9,True,2022-11-11 08:12:43,R_QifDRbWwBSgxoYx,Smith,Tim,t_smith@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 08:13:54,2022-11-11 08:14:10,IP Address,192.70.253.76,100,16,True,2022-11-11 08:14:11,R_2wnIc2HgSyAVESO,Smith,Sydney,sl_smith@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:14:27,2022-11-11 08:15:10,Spam,192.70.253.71,100,43,True,2022-11-11 08:15:11,R_20Y6WBceUbQWuj1,Giles-Pufahl,Mira,m_gilespufahl@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:16:11,2022-11-11 08:16:19,IP Address,192.70.253.76,100,7,True,2022-11-11 08:16:19,R_3j6hch954RerXqQ,Flanagan,Step,s_flanagan@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 08:16:46,2022-11-11 08:16:51,IP Address,192.70.253.77,100,5,True,2022-11-11 08:16:52,R_2fAecILYJROXi9z,Hamilton,Karly,k_hamilton@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:16:44,2022-11-11 08:16:52,IP Address,192.70.253.80,100,8,True,2022-11-11 08:16:52,R_2PvyhrASZ5GmHxP,Grumbach,Zoe,z_grumbach@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 08:17:59,2022-11-11 08:18:14,IP Address,73.229.241.216,100,15,True,2022-11-11 08:18:15,R_1i5v1SGeSFm9CyW,Brown,Max,max_brown@coloradocollege.edu,,38.7893,-104.8221,email,EN,Posy Vogt
+2022-11-11 08:18:40,2022-11-11 08:18:46,Spam,192.70.253.76,100,6,True,2022-11-11 08:18:47,R_RaT4ojHemeRgdQB,Marple,Emily,e_marple@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:19:35,2022-11-11 08:19:44,Spam,192.70.253.73,100,8,True,2022-11-11 08:19:45,R_2cqHBp4dyuUCF3I,Moraja,Henry,k_moraja@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:21:09,2022-11-11 08:21:16,IP Address,192.70.253.77,100,7,True,2022-11-11 08:21:17,R_24qPlrQpOARlp0Y,La France,Reign,r_lafrance@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 08:21:34,2022-11-11 08:21:57,IP Address,185.207.249.159,100,22,True,2022-11-11 08:21:57,R_2dgr0IAIeGtmxyI,Gates,Koray,k_gates@coloradocollege.edu,,39.7388,-104.9868,email,EN,Posy Vogt
+2022-11-11 08:23:28,2022-11-11 08:23:39,IP Address,76.25.251.181,100,10,True,2022-11-11 08:23:40,R_1rkJKDYeMxlc9mJ,Mota,Juan,j_mota@coloradocollege.edu,,38.9129,-104.7794,email,EN,Posy Vogt
+2022-11-11 08:23:48,2022-11-11 08:24:17,IP Address,192.70.253.80,100,29,True,2022-11-11 08:24:17,R_3r2kkcOxH0fy3Id,Rothschild,Ethan,e_rothschild@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:24:40,2022-11-11 08:25:17,IP Address,90.187.3.129,100,36,True,2022-11-11 08:25:18,R_27HVSOJttz0NUaw,Soto,Karla,k_soto@coloradocollege.edu,,53.5456,9.9615,email,EN,
+2022-11-11 08:27:05,2022-11-11 08:27:13,IP Address,192.70.253.71,100,7,True,2022-11-11 08:27:13,R_2WG4hr5fJ6VQjV0,Rogers,Lucy,l_rogers@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 08:29:15,2022-11-11 08:29:21,Spam,192.70.253.77,100,5,True,2022-11-11 08:29:22,R_UAZaCuV7PGt303f,Legaard,Jessica,j_legaard@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:32:16,2022-11-11 08:32:31,IP Address,83.136.182.89,100,14,True,2022-11-11 08:32:31,R_3Hhw2eurOGGBoNw,Marshall,Beck,b_marshall@coloradocollege.edu,,39.7501,-104.9957,email,EN,Jesse Smolan
+2022-11-11 08:34:21,2022-11-11 08:34:26,Spam,192.70.253.77,100,5,True,2022-11-11 08:34:27,R_d0V3SgOXbOXAaZ3,Boden,Gus,g_boden@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:34:53,2022-11-11 08:35:00,IP Address,192.70.253.75,100,6,True,2022-11-11 08:35:00,R_An9Y4sS6Ii0pdKN,Kahle,Paige,p_kahle@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:36:03,2022-11-11 08:36:12,Spam,192.70.253.77,100,8,True,2022-11-11 08:36:13,R_322VIU7rQNLFL83,Matsui,Anna,a_matsui@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:37:00,2022-11-11 08:37:09,IP Address,198.59.6.5,100,9,True,2022-11-11 08:37:10,R_20MYn0VNzW8ZqAN,Sweeney,Hannah,hj_sweeney@coloradocollege.edu,,38.8374,-104.8225,email,EN,Jesse Smolan
+2022-11-11 08:38:07,2022-11-11 08:38:13,IP Address,192.70.253.74,100,5,True,2022-11-11 08:38:13,R_27qByJRKFUyh9AZ,Patterson,Greta,g_patterson@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:37:29,2022-11-11 08:38:28,IP Address,192.70.253.76,100,59,True,2022-11-11 08:38:31,R_27POFg3R4sThsnV,Ninh,Nam,namninh@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 08:39:28,2022-11-11 08:39:39,Spam,192.70.253.80,100,10,True,2022-11-11 08:39:39,R_cHHJIRItcAWrSN3,Jahraus,Seth,s_jahraus@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:39:50,2022-11-11 08:39:59,IP Address,192.70.253.73,100,8,True,2022-11-11 08:40:00,R_3CIsSVCPVTqKtwF,Riek,Maria,m_riek@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 08:40:27,2022-11-11 08:40:40,IP Address,192.70.253.72,100,12,True,2022-11-11 08:40:41,R_2R4G9hZjB0wD7vl,Beck,George,g_beck@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:41:29,2022-11-11 08:41:38,Spam,192.70.253.76,100,8,True,2022-11-11 08:41:38,R_3NOt6nsiT6JxfbX,Sylvain,Will,w_sylvain@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:43:32,2022-11-11 08:44:04,Spam,192.70.253.80,100,32,True,2022-11-11 08:44:05,R_1GUPotGkJ6pkkKl,Eskenazi,Ella,an_eskenazi@ColoradoCollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:55:39,2022-11-11 08:55:48,IP Address,192.70.253.71,100,8,True,2022-11-11 08:55:48,R_ssOmGEdwHtJJAuB,Schubert,Alice,a_schubert@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 09:02:07,2022-11-11 09:02:23,IP Address,192.70.253.76,100,16,True,2022-11-11 09:02:24,R_3GuF0wHLpsFjCq7,Loos,Patrick,p_loos@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 09:04:41,2022-11-11 09:04:47,IP Address,192.70.253.74,100,5,True,2022-11-11 09:04:47,R_32WwrgkwzGmdbyW,Lamb,May,m_lamb@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 09:05:30,2022-11-11 09:05:46,IP Address,192.70.253.80,100,15,True,2022-11-11 09:05:47,R_DM0DwRppBgg3dnj,Smillie,Lorelei,l_smillie@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 09:21:33,2022-11-11 09:21:38,IP Address,192.70.253.74,100,4,True,2022-11-11 09:21:39,R_3I6vPUHqA8UzuML,Widlund,Molly,m_widlund@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 09:21:43,2022-11-11 09:21:56,IP Address,104.28.48.80,100,12,True,2022-11-11 09:21:56,R_2Pjq6VCKd0rvskc,Gonzalez,Jaime,ja_gonzalez@coloradocollege.edu,,38.8374,-104.8225,email,EN,Posy Vogt
+2022-11-11 09:21:50,2022-11-11 09:22:08,IP Address,198.59.6.1,100,18,True,2022-11-11 09:22:08,R_2D5LGqId2WYVgfl,Lane,Ned,n_lane@coloradocollege.edu,,38.8374,-104.8225,email,EN,Posy Vogt
+2022-11-11 09:25:30,2022-11-11 09:25:41,IP Address,192.70.253.73,100,10,True,2022-11-11 09:25:42,R_blIQwZwQXj8jdgB,Peirson,Nicole,n_peirson@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 09:29:17,2022-11-11 09:29:24,IP Address,192.70.253.78,100,7,True,2022-11-11 09:29:26,R_3O1EYbXaOMJm1j6,Smith,Sumner,se_smith@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 09:32:43,2022-11-11 09:32:52,IP Address,192.70.253.76,100,8,True,2022-11-11 09:32:53,R_3lDniLABETqjVbm,Then,Max,m_then@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 09:34:10,2022-11-11 09:34:17,IP Address,192.70.253.77,100,7,True,2022-11-11 09:34:18,R_31gvrEk9rqqbLyJ,Wagner,Mackenzie,m_wagner@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 09:45:45,2022-11-11 09:45:57,IP Address,198.59.6.10,100,12,True,2022-11-11 09:45:58,R_09E44jg3SNcU1HP,O'Brien,Megan,mr_obrien@coloradocollege.edu,,38.8374,-104.8225,email,EN,Jesse Smolan
+2022-11-11 09:46:43,2022-11-11 09:46:55,IP Address,192.70.253.77,100,12,True,2022-11-11 09:46:55,R_2wgZIea4PM4yxug,Ortiz-Grabe,Luke,l_ortizgrabe@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 09:51:09,2022-11-11 09:51:19,IP Address,192.70.253.73,100,9,True,2022-11-11 09:51:19,R_24kmzOt7VEt7PWb,Meister,Maddy,m_meister@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 10:01:37,2022-11-11 10:01:47,IP Address,198.59.6.3,100,10,True,2022-11-11 10:01:48,R_VR9jQbx0rSbfmF3,Tolson,Sophie,s_tolson@coloradocollege.edu,,38.8374,-104.8225,email,EN,Posy Vogt
+2022-11-11 09:57:07,2022-11-11 10:04:42,IP Address,192.70.253.71,100,455,True,2022-11-11 10:04:43,R_AsnwG0nLTFRVjY5,Sanchez,Justine,j_sanchez@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 10:04:45,2022-11-11 10:04:56,IP Address,192.70.253.79,100,10,True,2022-11-11 10:04:57,R_1IT4qjt22EM7yO5,Ikuzwe,Sangwa,s_ikuzwe@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 10:04:55,2022-11-11 10:05:00,IP Address,198.59.6.6,100,4,True,2022-11-11 10:05:01,R_3MoFDJYTFLMuoO1,Hetler,Chase,c_hetler@coloradocollege.edu,,38.8374,-104.8225,email,EN,Jesse Smolan
+2022-11-11 10:10:59,2022-11-11 10:11:06,IP Address,192.70.253.80,100,7,True,2022-11-11 10:11:07,R_1LXzewxHaAYZy9t,Smolan,Jesse,j_smolan@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 10:11:46,2022-11-11 10:11:53,IP Address,198.59.6.3,100,7,True,2022-11-11 10:11:54,R_2izzQYBSmWXpQ6l,Cohen,Harper,h_cohen@coloradocollege.edu,,38.8374,-104.8225,email,EN,Posy Vogt
+2022-11-11 10:10:21,2022-11-11 10:12:24,IP Address,192.70.253.72,100,123,True,2022-11-11 10:12:25,R_2zcJsMMXsICXFfa,Slaymaker,Kit,k_slaymaker@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 10:13:45,2022-11-11 10:13:53,IP Address,192.70.253.77,100,7,True,2022-11-11 10:13:55,R_2rTHzQQLpTh7KuZ,Richter,Aidan,a_richter@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 10:14:59,2022-11-11 10:15:12,Spam,192.70.253.72,100,13,True,2022-11-11 10:15:12,R_1o5Sm4iHCzrK6cp,Stora,Blanche,blanchestora@gmail.com,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 10:15:25,2022-11-11 10:16:18,IP Address,192.70.253.79,100,53,True,2022-11-11 10:16:19,R_1Gvp0QQtQO8YREh,Rittenberg,Tess,t_rittenberg@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 10:28:03,2022-11-11 10:28:10,IP Address,192.70.253.80,100,7,True,2022-11-11 10:28:11,R_1N51Hd4WagyCLnP,Wilde,Henry,h_wilde@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 10:27:26,2022-11-11 10:28:22,IP Address,192.70.253.80,100,55,True,2022-11-11 10:28:24,R_2SC7BrAKr0Dcu8Z,Gunawardena,Ashi,a_gunawardena@coloradocollege.edu,,38.8361,-104.8148,email,EN,
+2022-11-11 10:29:00,2022-11-11 10:29:15,IP Address,192.70.253.78,100,15,True,2022-11-11 10:29:16,R_3JF8f8GVbgQRPhT,Zaman,Sama,s_zaman@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 10:31:07,2022-11-11 10:31:16,Spam,192.70.253.72,100,9,True,2022-11-11 10:31:17,R_2yrQt0nWCFrLT1e,Lammert,James,j_lammert@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 10:35:01,2022-11-11 10:35:07,IP Address,198.59.6.2,100,5,True,2022-11-11 10:35:08,R_ZHVdvrstzaQnmvv,Hite,Charlie,c_hite@coloradocollege.edu,,38.8374,-104.8225,email,EN,Jesse Smolan
+2022-11-11 10:40:51,2022-11-11 10:40:59,IP Address,24.15.74.13,100,7,True,2022-11-11 10:40:59,R_VWl7bYUkVdwD7Jn,Browdy,Melanie,m_browdy@coloradocollege.edu,,42.1047,-87.7566,email,EN,Jesse Smolan
+2022-11-11 10:47:16,2022-11-11 10:47:26,IP Address,192.70.253.73,100,10,True,2022-11-11 10:47:27,R_2Cf7MAWOw4VQNva,Hatch,Heather,h_hatch@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 11:05:33,2022-11-11 11:05:41,IP Address,172.58.60.205,100,8,True,2022-11-11 11:05:42,R_bJ9nIkhgyBIBjnH,Goldberg,Margalit,m_goldberg@coloradocollege.edu,,39.7388,-104.9868,email,EN,Jesse Smolan
+2022-11-11 11:11:12,2022-11-11 11:11:19,IP Address,198.59.6.5,100,6,True,2022-11-11 11:11:20,R_1OVMKDnByiENltp,Rach,Delaney,d_rach@coloradocollege.edu,,38.8374,-104.8225,email,EN,Jesse Smolan
+2022-11-11 11:22:04,2022-11-11 11:22:11,Spam,192.70.253.73,100,6,True,2022-11-11 11:22:11,R_2fy8axsvm4McG68,Simons,Ella,e_simons@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 11:23:01,2022-11-11 11:23:18,IP Address,192.70.253.77,100,16,True,2022-11-11 11:23:18,R_0uf8bjcPPWO5dCx,Holland,Ella,e_holland@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 11:25:39,2022-11-11 11:25:49,IP Address,198.59.6.8,100,9,True,2022-11-11 11:25:50,R_3lQtm5zP2lpHryk,Duran,Jessica,j_duran@coloradocollege.edu,,38.8374,-104.8225,email,EN,Posy Vogt
+2022-11-11 11:26:17,2022-11-11 11:26:29,IP Address,192.70.253.76,100,12,True,2022-11-11 11:26:30,R_3hzoM5lpCiCIbOH,Silver,Griffin,g_silver@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 11:26:37,2022-11-11 11:27:05,Spam,192.70.253.73,100,27,True,2022-11-11 11:27:06,R_31bJMJsvHkdFPER,Breyak,Annie,a_breyak@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 11:33:05,2022-11-11 11:33:12,IP Address,192.70.253.71,100,6,True,2022-11-11 11:33:12,R_28PeszBrmqOH7wG,Pan,Mandy,ma_pan@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 11:42:48,2022-11-11 11:42:56,IP Address,192.70.253.72,100,7,True,2022-11-11 11:42:57,R_2fIkL7CyEVYhjnR,Brown,Justin,jl_brown@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 11:44:36,2022-11-11 11:44:40,IP Address,192.70.253.78,100,4,True,2022-11-11 11:44:41,R_3rOlBUw6CVYYAOm,Smith,Oliver,om_smith@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 11:52:47,2022-11-11 11:52:52,IP Address,192.70.253.73,100,4,True,2022-11-11 11:52:52,R_ugeZA496MCQXLJT,Rosenbaum,Cate,c_rosenbaum@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 11:54:52,2022-11-11 11:55:05,IP Address,192.70.253.74,100,13,True,2022-11-11 11:55:06,R_1l5isI0xErucOPD,Brooks,Robby,r_brooks@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 11:57:25,2022-11-11 11:57:34,IP Address,192.70.253.75,100,9,True,2022-11-11 11:57:35,R_2uIre42hsccuYVx,Zafar,Zoraiz,z_zafar@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 11:58:01,2022-11-11 11:58:19,IP Address,107.123.5.45,100,17,True,2022-11-11 11:58:19,R_yHDjP0TdfK91RaV,Parrish,Abby,a_parrish@coloradocollege.edu,,39.7388,-104.9868,email,EN,
+2022-11-11 12:01:13,2022-11-11 12:03:12,IP Address,192.70.253.76,100,119,True,2022-11-11 12:03:13,R_AA9aHwuRcJfxKoN,Thompson,Claire,c_thompson@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 12:05:21,2022-11-11 12:05:29,IP Address,101.98.70.190,100,8,True,2022-11-11 12:05:30,R_1OjXPg1GbiwSpeE,Spencer,Olivia,o_spencer@coloradocollege.edu,,-37.798,175.2717,email,EN,Jesse Smolan
+2022-11-11 12:22:54,2022-11-11 12:23:05,IP Address,192.70.253.72,100,10,True,2022-11-11 12:23:06,R_3HT8Ur71GH2gmBF,Khyr,Ommay,o_khyr@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 12:23:16,2022-11-11 12:24:26,IP Address,192.70.253.80,100,70,True,2022-11-11 12:24:27,R_2tyVeq2jVL2bkSv,Dietrich,Liam,l_dietrich@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 12:24:20,2022-11-11 12:24:28,IP Address,192.70.253.75,100,8,True,2022-11-11 12:24:29,R_2WSTyNX5XkIRiXA,Curl,Nathan,n_curl@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 12:26:03,2022-11-11 12:26:08,IP Address,72.19.188.114,100,4,True,2022-11-11 12:26:09,R_2CCE2jBKxNPN6dc,Lorenz,Lenny,l_lorenz@coloradocollege.edu,,38.9541,-104.5472,email,EN,Posy Vogt
+2022-11-11 12:39:48,2022-11-11 12:39:57,IP Address,192.70.253.78,100,9,True,2022-11-11 12:39:58,R_3fUl90QZIYS6WVA,Ponsky,Maiya,m_ponsky@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 12:51:31,2022-11-11 12:51:49,IP Address,198.59.6.3,100,17,True,2022-11-11 12:51:50,R_UJwwebq9pduBRAt,Yeary,Hannah,h_yeary@coloradocollege.edu,,38.8374,-104.8225,email,EN,
+2022-11-11 12:55:37,2022-11-11 12:55:45,Spam,192.70.253.77,100,8,True,2022-11-11 12:55:46,R_31uOxjIyZN6HFhV,Swenson,Annabelle,a_swenson@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 09:09:30,2022-11-11 13:22:14,IP Address,192.70.253.73,100,15164,True,2022-11-11 13:22:14,R_1lxz6fxv3v3tYvO,Stamstad,Maisie,m_stamstad@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 13:33:34,2022-11-11 13:34:08,IP Address,192.70.253.75,100,34,True,2022-11-11 13:34:09,R_3PpCAYFxs1wTooO,Espinosa-Short,Camila,c_espinosashort@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 13:35:24,2022-11-11 13:35:53,IP Address,192.70.253.79,100,29,True,2022-11-11 13:35:54,R_2QgnFjCUnHAbWs1,Greenway,Lander,l_greenway@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 13:37:07,2022-11-11 13:38:00,IP Address,192.70.253.78,100,52,True,2022-11-11 13:38:00,R_1Fbo3fSvXnuhce8,Dougherty,Kelli,k_dougherty@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 14:38:34,2022-11-11 14:38:40,IP Address,192.70.253.80,100,5,True,2022-11-11 14:38:41,R_2e2y8qsllbHQBII,Boyd,Aidan,a_boyd@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 15:08:36,2022-11-11 15:08:41,IP Address,192.70.253.79,100,4,True,2022-11-11 15:08:41,R_3ijK4cwbxHQ845X,Levin,Ethan,e_levin@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 15:40:13,2022-11-11 15:40:18,IP Address,192.70.253.79,100,5,True,2022-11-11 15:40:19,R_tGL0qxd2XMgeP5L,Bell,William,w_bell@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 15:42:54,2022-11-11 15:43:09,IP Address,192.70.253.77,100,15,True,2022-11-11 15:43:10,R_eQJrRBo03IO6Fb3,Anderson,Luke,l_anderson@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 15:47:19,2022-11-11 15:48:55,IP Address,192.70.253.78,100,95,True,2022-11-11 15:48:55,R_1Gkdz1c1ukWb1YJ,Cheah,Kanitta,k_cheah@coloradocollege.edu,,38.8361,-104.8148,email,EN,Jesse Smolan
+2022-11-11 16:18:32,2022-11-11 16:18:46,IP Address,98.245.247.70,100,13,True,2022-11-11 16:18:46,R_1KfJ0cbht787fcW,Geronazzo,Juliana,j_geronazzo@coloradocollege.edu,,38.8898,-104.7433,email,EN,Jesse Smolan
+2022-11-11 16:18:46,2022-11-11 16:18:54,IP Address,192.70.253.76,100,7,True,2022-11-11 16:18:54,R_3nDx6TsZ2IH0kYa,Akinchina,Sasha,s_akinchina@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:35:18,2022-11-11 17:10:25,IP Address,172.58.99.194,100,30907,True,2022-11-11 17:10:26,R_4IKEQFIoCNdStax,Hamreteg,Alva,a_hamreteg@coloradocollege.edu,,29.6924,-95.513,email,EN,Jesse Smolan
+2022-11-11 17:45:23,2022-11-11 17:45:28,IP Address,192.70.253.72,100,5,True,2022-11-11 17:45:29,R_Uo6E3lJXTMFP1Gp,Fairmont,Joshua,j_fairmont@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 17:46:06,2022-11-11 17:46:12,IP Address,192.70.253.73,100,5,True,2022-11-11 17:46:13,R_sSj0Yvjs2RH5ADn,Woodruff,Kaelin,k_woodruff@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 17:47:15,2022-11-11 17:47:19,IP Address,198.59.6.5,100,4,True,2022-11-11 17:47:19,R_2z6yLHH5qGj784W,Beerman,Nate,n_beerman@coloradocollege.edu,,38.8374,-104.8225,email,EN,Posy Vogt
+2022-11-11 17:48:13,2022-11-11 17:48:22,IP Address,192.70.253.80,100,8,True,2022-11-11 17:48:23,R_3GdilWSbJmbQLeI,Dunham,Max,mr_dunham@coloradocollege.edu,,38.8361,-104.8148,email,EN,Posy Vogt
+2022-11-11 08:04:03,2022-11-11 08:04:04,IP Address,192.70.253.80,50,1,False,2022-11-18 08:04:08,R_1pmrVxeLr8qAy9V,Smith,Mia,m_smith@coloradocollege.edu,,,,email,EN,
+2022-11-11 08:03:43,2022-11-11 08:04:05,IP Address,190.218.217.75,50,21,False,2022-11-18 08:04:08,R_2z5U8hdkCkqMowk,Baher-murphy,Evelyn,e_bahermurphy@coloradocollege.edu,,,,email,EN,
+2022-11-11 08:08:29,2022-11-11 08:08:35,Spam,192.70.253.80,50,5,False,2022-11-18 08:08:36,R_2dmAUCFUIBSCe7R,Pena,Destiny,d_pena@coloradocollege.edu,,,,email,EN,
+2022-11-11 08:11:17,2022-11-11 08:11:18,IP Address,192.70.253.74,50,1,False,2022-11-18 08:11:28,R_4OXVJU2p2GUKRwt,Sameen,Mustafa,s_sameen@coloradocollege.edu,,,,email,EN,
+2022-11-11 08:12:30,2022-11-11 08:12:33,IP Address,107.116.89.9,50,3,False,2022-11-18 08:12:34,R_3mmlEM7Jhd46FCr,Lowe,Marley,me_lowe@coloradocollege.edu,,,,email,EN,
+2022-11-11 08:33:19,2022-11-11 08:33:21,IP Address,192.70.253.73,50,1,False,2022-11-18 08:33:26,R_3DkJsIEVTtvBMCh,Rogan,Gabby,g_rogan@coloradocollege.edu,,,,email,EN,
+2022-11-11 08:43:10,2022-11-11 08:43:12,Spam,192.70.253.73,50,2,False,2022-11-18 08:43:14,R_3lPqG6oJgueYUEt,Springer,Mira,m_springer@coloradocollege.edu,,,,email,EN,
+2022-11-11 08:56:19,2022-11-11 08:57:48,IP Address,192.70.253.74,50,89,False,2022-11-18 08:57:50,R_12QmL4Yb9bnCcC6,Maxfield,Holden,h_maxfield@coloradocollege.edu,,,,email,EN,
+2022-11-11 09:21:34,2022-11-11 09:21:36,IP Address,174.234.5.26,50,1,False,2022-11-18 09:21:37,R_1LoL9jwUqMbf0xq,Kruger,Ty,t_kruger@coloradocollege.edu,,,,email,EN,
+2022-11-11 10:20:37,2022-11-11 10:20:43,IP Address,192.70.253.76,50,5,False,2022-11-18 10:20:44,R_2zH2fjkzVI27QfK,Louden,Arthonia,s_louden@coloradocollege.edu,,,,email,EN,
+2022-11-11 10:25:15,2022-11-11 10:25:16,IP Address,192.70.253.77,50,1,False,2022-11-18 10:25:20,R_zegp2TxjV1QFpiF,Zizzo,Zoe,z_zizzo@coloradocollege.edu,,,,email,EN,
+2022-11-11 10:27:08,2022-11-11 10:27:17,Spam,192.70.253.77,50,9,False,2022-11-18 10:28:34,R_2tEHXdCWjbJSY7h,Heimerl,Abby,a_heimerl@coloradocollege.edu,,,,email,EN,
+2022-11-11 10:35:34,2022-11-11 10:35:40,IP Address,198.59.6.8,50,5,False,2022-11-18 10:35:44,R_C95YwEwE5k0u2aZ,Tannahill,Theo,t_tannahill@coloradocollege.edu,,,,email,EN,
+2022-11-11 10:51:12,2022-11-11 10:51:20,IP Address,192.70.253.80,50,7,False,2022-11-18 10:51:25,R_cA4QSmoPhlPKRjP,-,Tsering Dhondup,t_dhondup@coloradocollege.edu,,,,email,EN,
+2022-11-11 10:53:53,2022-11-11 10:53:57,Spam,192.70.253.77,50,4,False,2022-11-18 10:53:59,R_3GB84UlHZqcdiDl,Shryer,Dylan,d_shryer@coloradocollege.edu,,,,email,EN,
+2022-11-11 11:02:54,2022-11-11 11:03:38,IP Address,192.70.253.74,50,43,False,2022-11-18 11:03:41,R_AFYbv3NBhAQN6CZ,Cheeseman,Zahra,z_cheeseman@coloradocollege.edu,,,,email,EN,
+2022-11-11 11:53:39,2022-11-11 11:53:44,IP Address,192.70.253.71,50,4,False,2022-11-18 11:53:47,R_2UchoLxI89ytYFA,Kim,Meena,m_kim@coloradocollege.edu,,,,email,EN,
+2022-11-11 11:56:27,2022-11-11 11:56:28,IP Address,192.70.253.72,50,1,False,2022-11-18 11:56:35,R_2xOXUnnamZZZAho,Sullivan,Pierce,p_sullivan@coloradocollege.edu,,,,email,EN,
+2022-11-11 12:14:25,2022-11-11 12:14:41,Spam,192.70.253.71,50,15,False,2022-11-18 12:14:49,R_2S1XmjGvofCkd2Q,Kopczynski,Alyssa,a_kopczynski@coloradocollege.edu,,,,email,EN,
+2022-11-11 12:34:38,2022-11-11 12:34:40,IP Address,198.59.6.2,50,2,False,2022-11-18 12:34:42,R_DiZhE0hSvDAuB33,Maahs,Natalia,n_maahs@coloradocollege.edu,,,,email,EN,
+2022-11-11 09:32:58,2022-11-12 18:07:00,IP Address,192.70.253.72,50,117241,False,2022-11-19 18:07:01,R_2rq1yq7rtVzUd7k,Gaal,Sophia,s_gaal@coloradocollege.edu,,,,email,EN,
